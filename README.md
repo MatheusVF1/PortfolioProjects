@@ -39,7 +39,7 @@ The analysis was performed in **SQL Server**, combining two datasets:
 
 ---
 
-### Project 2 - Sales Performance Dashboard (Power BI)
+## Project 2 - Sales Performance Dashboard (Power BI)
 
 **Description:**  
 This project focuses on building a **fully dynamic and interactive Power BI dashboard** to analyze global sales performance using the dataset **Plant_DTS.xls**.  
