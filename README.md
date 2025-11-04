@@ -81,7 +81,7 @@ It showcases DAX calculations, dynamic visuals, and conditional formatting for a
 
 ---
 
-### Project 3 - Nashville Housing Data Cleaning (SQL)
+## Project 3 - Nashville Housing Data Cleaning (SQL)
 
 **Description:**  
 This project focuses on **data cleaning and preprocessing using SQL Server**, based on the Nashville Housing dataset.  
