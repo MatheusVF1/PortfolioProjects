@@ -41,6 +41,9 @@ The analysis was performed in **SQL Server**, combining two datasets:
 
 ## Project 2 - Sales Performance Dashboard (Power BI)
 
+**View the Live Report:**  
+👉 [Click here to explore the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzVmMzkwMTctNTNiNC00ODY4LThjOWUtMGNjYjMzNzI4ZDJkIiwidCI6IjFjYmJiNDZmLWFhNjItNDYzOC04OWI5LTNlMTg0MzU4YjI3MCJ9)  
+
 **Description:**  
 This project focuses on building a **fully dynamic and interactive Power BI dashboard** to analyze global sales performance using the dataset **Plant_DTS.xls**.  
 It showcases DAX calculations, dynamic visuals, and conditional formatting for a clean and professional business insight report.
@@ -75,9 +78,6 @@ It showcases DAX calculations, dynamic visuals, and conditional formatting for a
 - **Treemap:** Bottom 10 countries by performance  
 - **Scatter Plot:** Profitability segmentation by account  
 - **Dynamic Titles:** Automatically update based on selected metric and year  
-
-**View the Live Report:**  
-👉 [Click here to explore the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzVmMzkwMTctNTNiNC00ODY4LThjOWUtMGNjYjMzNzI4ZDJkIiwidCI6IjFjYmJiNDZmLWFhNjItNDYzOC04OWI5LTNlMTg0MzU4YjI3MCJ9)  
 
 ---
 
