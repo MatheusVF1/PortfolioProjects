@@ -131,8 +131,6 @@ This project focuses on a **Exploratory Data Analysis (EDA)** of the movie indus
 
 ---
 
----
-
 ## Project 5 - Sales Vs Budget Analysis (SQL & Power BI)
 
 **View the Live Report:**
