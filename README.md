@@ -209,6 +209,8 @@ The main objective was to transform static sales data into an **interactive BI s
 - **The Attention Economy:** Confirmed a significant downward trend in song length starting in 2015. A **T-Test (P-Value < 0.05)** proved that modern tracks are statistically shorter than those from the "Classic Era" to optimize for streaming algorithms.
 - **Genre Hegemony:** Identified a massive shift from Rock dominance in the 80s/90s to a consolidated Pop and Country market in the Streaming Era, alongside the rise of
 
+[⬆ Back to Top](#-navigation-summary)
+
 ---
 
 📘 **More projects coming soon!**  
