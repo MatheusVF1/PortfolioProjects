@@ -3,7 +3,17 @@
 Welcome to my **Portfolio Projects** repository!  
 Here I store all my data analysis projects — each one contained in its own folder, with all datasets, SQL queries, notebooks, and other resources used during development.
 
-This repository is a collection of studies and end-to-end projects created to explore **real-world data**, improve my **data analysis, SQL, and visualization** skills, and demonstrate my **problem-solving approach** using data.
+---
+
+## 📌 Navigation Summary
+Click on a project to jump directly to its details:
+
+1. [Project 1 - COVID Data Analysis (SQL)](#project-1---covid-data-analysis-sql)
+2. [Project 2 - Sales Performance Dashboard (Power BI)](#project-2---sales-performance-dashboard-power-bi)
+3. [Project 3 - Nashville Housing Data Cleaning (SQL)](#project-3---nashville-housing-data-cleaning-sql)
+4. [Project 4 - EDA Budget and Gross Correlation (Python/Pandas)](#project-4---eda-budget-and-gross-correlation-pythonpandas)
+5. [Project 5 - Sales Vs Budget Analysis (SQL & Power BI)](#project-5---sales-vs-budget-analysis-sql--power-bi)
+6. [Project 6 - Spotify Data-Driven Industry Analysis (Python)](#project-6---spotify-data-driven-industry-analysis-python)
 
 ---
 
