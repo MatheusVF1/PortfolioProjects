@@ -215,7 +215,7 @@ The main objective was to transform static sales data into an **interactive BI s
 ## Project 7 - Sales Analysis (Power BI)
 
 **View the Live Report:**
-👉 [Click here to explore the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmE5OGRjY2UtNThlZi00ZTBiLWJlYTQtYTliZWFjMTgwNGEwIiwidCI6IjFjYmJiNDZmLWFhNjItNDYzOC04OWI5LTNlMTg0MzU4YjI3MCJ9)
+👉 [Click here to explore the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTlmZTU3YTctMGY2Zi00MDMwLWE5YTQtZTEzMTY1MzllNjhkIiwidCI6IjFjYmJiNDZmLWFhNjItNDYzOC04OWI5LTNlMTg0MzU4YjI3MCJ9)
 
 **Description:** This project delivers a **comprehensive Sales & Profitability analysis**. It involves consolidating multiple monthly sales records and a product catalog to monitor commercial health. The final solution features a highly interactive, dual-themed dashboard (Dark & Light modes) designed to identify top-performing categories and evaluate sales representative efficiency.
 
